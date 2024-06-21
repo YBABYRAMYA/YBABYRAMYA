@@ -1,20 +1,17 @@
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Govardhanarao Kotla</h1>
+<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Yalagandula Babyramya</h1>
 
-<!--
-**krishnateja-81/krishnateja-81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started: -->
 
 
 <br/>            
    
 ## 👨🏻‍💻 About Me:             
 
-# I'm Kotla GovardhanaRao 👋        
+# I'm yalagandula Babyramya 👋        
 
 ### I'm a Final Year BTech Information Technology - student.
     
 - 🎓 I'm currently pursuing my Bachelor's in Information Technology.
-- 🌱 I’m deeply interested in Python and its applications in data science.
+- 🌱 I’m deeply interested in Front end web development, Python and its applications in data science.
 - 💻 I'm skilled in Python and Java.
 - 🔭 I’m currently working on enhancing my skills in Data science.
 - 📊 I'm passionate about using my knowledge to solve real-world problems and contribute to the field of data science.
