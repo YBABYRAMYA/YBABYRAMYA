@@ -43,7 +43,7 @@
 <hr>
 <h1>GitHub Stats</h1>
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=yalagandulaBabyRamya&show_icons=true&theme=radical" alt="github stats" />
+ <img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=radical" alt="github stats" />
  </div>
 <div align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yalagandulaBabyRamya" alt="github stats" />
@@ -53,5 +53,5 @@
 
 ### Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/ramya1264/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramya1264/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kteja8212)
