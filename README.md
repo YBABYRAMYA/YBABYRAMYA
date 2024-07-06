@@ -43,10 +43,10 @@
 <hr>
 <h1>GitHub Stats</h1>
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=YALAGANDULA BABY RAMYA&show_icons=true&theme=radical" alt="github stats" />
+ <img src="https://github-readme-stats.vercel.app/api?username=YBABYRAMYA&show_icons=true&theme=radical" alt="github stats" />
  </div>
 <div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=YALAGANDULA BABY RAMYA" alt="github stats" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=YBABYRAMYA" alt="github stats" />
  </div>
 
 
