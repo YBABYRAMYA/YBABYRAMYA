@@ -33,21 +33,25 @@
 <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
-   [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+ <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
+ <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="25px"/>
+ <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
+ <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" height="25px"/>
 
 </p>
 
 <hr>
 <h1>GitHub Stats</h1>
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Govardhanaraokotla&show_icons=true&theme=radical" alt="github stats" />
+ <img src="https://github-readme-stats.vercel.app/api?username=yalagandulaBabyRamya&show_icons=true&theme=radical" alt="github stats" />
  </div>
 <div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Govardhanaraokotla" alt="github stats" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=yalagandulaBabyRamya" alt="github stats" />
  </div>
 
 
 
 ### Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/govardhanarao-kotla/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/ramya1264/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kteja8212)
