@@ -12,13 +12,13 @@
     
 - 🎓 I'm currently pursuing my Bachelor's in Information Technology.
 - 🌱 I’m deeply interested in Front end web development, Python and its applications in data science.
-- 💻 I'm skilled in Python and Java.
+- 💻 I'm skilled in Python,Java and in WebTechnologies like {HTML,CSS,JavaScript,React}
 - 🔭 I’m currently working on enhancing my skills in Data science.
 - 📊 I'm passionate about using my knowledge to solve real-world problems and contribute to the field of data science.
 - 👯 I’m looking to collaborate on projects that leverage data to create impactful solutions.
 - 💬 Ask me about anything related to Python and data science I love to help and share my knowledge!
-- 📫 How to reach me: [govardhanaraokotla27@gmail.com](mailto:govardhanaraokotla27@gmail.com)
-- ⚡ Fun fact: I enjoy exploring new technologies and continuously challenge myself with new projects.
+- 📫 How to reach me: [yalagandulababyramya@gmail.com](mailto:yalagandulababyramya@gmail.com)
+- ⚡ Fun fact: I thrive on exploring new technologies and challenging myself with new projects There's always something new to learn and innovate!
 
 
 ## 🛠️ Technologies and Tools I use:
@@ -33,6 +33,8 @@
 <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
+   [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+
 </p>
 
 <hr>
