@@ -70,7 +70,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/YBABYRAMYA.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/YBABYRAMYA?tab=followers)
 
 <!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YBABYRAMYA&show_icons=true)](https://github.com/YBABYRAMYA) -->
-[![Ramya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruban2205&show_icons=true&theme=vue)](https://github.com/ruban2205/github-readme-stats)
+[![Ramya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YBABYRAMYA&show_icons=true&theme=vue)](https://github.com/YBABYRAMYA/github-readme-stats)
 
 <!-- [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YBABYRAMYA)](https://github.com/YBABYRAMYA) -->
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YBABYRAMYA&layout=compact&show_icons=true&theme=vue)](https://github.com/YBABYRAMYA/github-readme-stats)
