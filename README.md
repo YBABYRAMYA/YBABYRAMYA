@@ -1,58 +1,83 @@
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Yalagandula Babyramya</h1>
+# Hello👋, I'm Ruban Gino Singh
+
+## About me 👀
+
+- 🔭 I’m currently a Student professional
+- 🎯 Designer | Developer | Tech Enthusiast 
+- 🌱 Currently Working on **Machine Learning and Data Science**
+- 💖 Open source contributor
+- 👯 I’m looking to collaborate on Interesting projects
 
 
 
-<br/>            
-   
-## 👨🏻‍💻 About Me:             
+<hr/>
+## Social Networks 🤵
 
-# I'm yalagandula Babyramya 👋        
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/maahi.07_18/)
+[![Twitter](https://img.shields.io/badge/X.com%20(Twitter)%20-black.svg?style=for-the-badge&logo=X&colorB=555)](https://x.com/YBabyRamya0905)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramya1264)
 
-### I'm a Final Year BTech Information Technology - student.
-    
-- 🎓 I'm currently pursuing my Bachelor's in Information Technology.
-- 🌱 I’m deeply interested in Front end web development, Python and its applications in data science.
-- 💻 I'm skilled in Python,Java and in WebTechnologies like {HTML,CSS,JavaScript,React}
-- 🔭 I’m currently working on enhancing my skills in Data science.
-- 📊 I'm passionate about using my knowledge to solve real-world problems and contribute to the field of data science.
-- 👯 I’m looking to collaborate on projects that leverage data to create impactful solutions.
-- 💬 Ask me about anything related to Python and data science I love to help and share my knowledge!
-- 📫 How to reach me: [yalagandulababyramya@gmail.com](mailto:yalagandulababyramya@gmail.com)
-- ⚡ Fun fact: I thrive on exploring new technologies and challenging myself with new projects There's always something new to learn and innovate!
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/21KN1A1264)
 
 
-## 🛠️ Technologies and Tools I use:
-
-<p>
- <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
-  
- <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
-<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
- <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="25px"/>
- <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25px"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
-<img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
- <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
- <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
- <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="25px"/>
- <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
- <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" height="25px"/>
-
-</p>
-
-<hr>
-<h1>GitHub Stats</h1>
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=YBABYRAMYA&show_icons=true&theme=radical" alt="github stats" />
- </div>
-<div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=YBABYRAMYA" alt="github stats" />
- </div>
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YBABYRAMYA)
 
 
 
-### Connect with me:
+## Languages and Tools 🖥️
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramya1264/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/YBabyRamya0905)
+<!-- Programming Languages -->
+[![C_Lang](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/YBABYRAMYA)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/YBABYRAMYA)
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/YBABYRAMYA)
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/YBABYRAMYA)
+
+
+
+<!-- Front End Development --> 
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/YBABYRAMYA)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Ruban2205)
+
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/YBABYRAMYA)
+
+
+
+[![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://github.com/YBABYRAMYA)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/YBABYRAMYA)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/YBABYRAMYA)
+[![Java_Swing_GUI](https://img.shields.io/badge/Java-Swing%20GUI-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/YBABYRAMYA)
+
+<!-- Backend Development --> 
+[![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/YBABYRAMYA)
+[![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://github.com/YBABYRAMYA)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/YBABYRAMYA)
+
+
+
+
+
+## Get in Touch ☎️--📞
+
+
+[![E-Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yalagandulababyramya@gmail.com)
+
+<hr/>
+
+## Statistics 🗒️
+
+![Visitor Badge](https://api.visitorbadge.io/api/VisitorHit?user=YBABYRAMYA&repo=github-visitors-badge&countColor=%237B1E7A)
+
+[![GitHub followers](https://img.shields.io/github/followers/YBABYRAMYA.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/YBABYRAMYA?tab=followers)
+
+<!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YBABYRAMYA&show_icons=true)](https://github.com/YBABYRAMYA) -->
+[![Ramya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruban2205&show_icons=true&theme=vue)](https://github.com/ruban2205/github-readme-stats)
+
+<!-- [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YBABYRAMYA)](https://github.com/YBABYRAMYA) -->
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YBABYRAMYA&layout=compact&show_icons=true&theme=vue)](https://github.com/YBABYRAMYA/github-readme-stats)
+[![GitHub Profile_Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YBABYRAMYA&theme=vue)](https://github.com/YBABYRAMYA)
+
+
+<hr/>
+
+### Star ⭐ Some Of My Repositories for Future use 😉
+
