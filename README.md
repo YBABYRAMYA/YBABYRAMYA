@@ -31,6 +31,8 @@
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/YBABYRAMYA)
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/YBABYRAMYA)
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/YBABYRAMYA)
+[![C++](https://img.shields.io/badge/c++-FFD43B?style=for-the-badge&logo=c++&logoColor=blue)](https://github.com/YBABYRAMYA)
+
 
 
 
