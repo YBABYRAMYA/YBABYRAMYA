@@ -1,4 +1,4 @@
-# Hello👋, I'm Ruban Gino Singh
+# Hello👋, I'm yalagandula Babyramya
 
 ## About me 👀
 
