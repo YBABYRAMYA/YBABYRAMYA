@@ -1,4 +1,4 @@
-# Hello👋, I'm yalagandula Babyramya
+# Hello👋, I'm Yalagandula Babyramya
 
 ## About me 👀
 
