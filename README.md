@@ -25,8 +25,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YBABYRAMYA)
 
 
-<details> 
-## Languages and Tools 🖥️
+<details>	
+ <summary><b>🛠 Tech Stack</b></summary><br>
 
 <!-- Programming Languages -->
 [![C_Lang](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/YBABYRAMYA)
