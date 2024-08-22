@@ -11,7 +11,8 @@
 
 
 
-## Social Networks 🤵
+<details>	
+ <summary><b>🛠 Get in contact</b></summary><br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/maahi.07_18/)
 [![Twitter](https://img.shields.io/badge/X.com%20(Twitter)%20-black.svg?style=for-the-badge&logo=X&colorB=555)](https://x.com/YBabyRamya0905)
@@ -23,7 +24,7 @@
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YBABYRAMYA)
-
+</details>
 
 <details>	
  <summary><b>🛠 Tech Stack</b></summary><br>
