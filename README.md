@@ -50,7 +50,7 @@
 <hr/>
 <details>	
  <summary><b> Statistics 🗒️</b></summary><br>
-[![GitHub followers](https://img.shields.io/github/followers/YBABYRAMYA.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/YBABYRAMYA?tab=followers)
+<!--[![GitHub followers](https://img.shields.io/github/followers/YBABYRAMYA.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/YBABYRAMYA?tab=followers)-->
 
 <!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YBABYRAMYA&show_icons=true)](https://github.com/YBABYRAMYA) -->
 [![Ramya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YBABYRAMYA&show_icons=true&theme=vue)](https://github.com/YBABYRAMYA/github-readme-stats)
