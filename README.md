@@ -53,7 +53,7 @@
 </details>
 <hr/>
 
-### Statistics
+### Statistics 📋
 
 
 <br/>
