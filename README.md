@@ -3,7 +3,6 @@
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
 
 ## About me 👀
-
 - 🔭 I’m currently a Student professional
 - 🎯 Designer | Developer | Tech Enthusiast 
 - 🌱 Currently Working on **Machine Learning and Data Science**
