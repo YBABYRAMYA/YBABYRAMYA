@@ -21,6 +21,7 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/yalagandulababyramya/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YBABYRAMYA)
 </details>
+<hr/>
 
 <details>	
  <summary><b>🛠 Tech Stack</b></summary><br>
