@@ -52,8 +52,9 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/YBABYRAMYA)
 </details>
 <hr/>
-<details>	
- <summary><b> Statistics 🗒️</b></summary><br>
+
+###Statistics
+
 <!--[![GitHub followers](https://img.shields.io/github/followers/YBABYRAMYA.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/YBABYRAMYA?tab=followers)-->
 
 <!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YBABYRAMYA&show_icons=true)](https://github.com/YBABYRAMYA) -->
@@ -62,7 +63,7 @@
 <!-- [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YBABYRAMYA)](https://github.com/YBABYRAMYA) -->
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YBABYRAMYA&layout=compact&show_icons=true&theme=vue)](https://github.com/YBABYRAMYA/github-readme-stats)
 [![GitHub Profile_Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YBABYRAMYA&theme=vue)](https://github.com/YBABYRAMYA)
-</details>
+
 
 ![Visitor Badge](https://api.visitorbadge.io/api/VisitorHit?user=YBABYRAMYA&repo=github-visitors-badge&countColor=%237B1E7A)
 <hr/>
