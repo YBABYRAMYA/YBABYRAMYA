@@ -13,6 +13,8 @@
 
 <details>	
  <summary><b>📧Get in contact</b></summary><br>
+
+ <!--contact details-->
 [![E-Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yalagandulababyramya@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/maahi.07_18/)
 [![Twitter](https://img.shields.io/badge/X.com%20(Twitter)%20-black.svg?style=for-the-badge&logo=X&colorB=555)](https://x.com/YBabyRamya0905)
