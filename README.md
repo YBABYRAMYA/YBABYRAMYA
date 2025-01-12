@@ -1,82 +1,84 @@
-<h1 align="center"> Hi there, I'm <a href="https://drive.google.com/file/d/1Mnl5w3zW26u-aOA7gPF2ZI3b7c4skEq6/view?usp=drive_link">BabyRamya</a> </h1>
-
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
-
-## About me 👀
-- 🔭 I’m currently a Student professional
-- 🎯 Designer | Developer | Tech Enthusiast 
-- 🌱 Currently Working on *Machine Learning and Data Science*
-- 💖 Open source contributor
-- 👯 I’m looking to collaborate on Interesting projects
-
-
-
-
-<details>	
- <summary><b>📧Get in contact</b></summary><br>
-
- <!--contact details-->
-[![E-Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yalagandulababyramya@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/maahi.07_18/)
-[![Twitter](https://img.shields.io/badge/X.com%20(Twitter)%20-black.svg?style=for-the-badge&logo=X&colorB=555)](https://x.com/YBabyRamya0905)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramya1264)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/21KN1A1264)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/yalagandulababyramya/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YBABYRAMYA)
-</details>
-<hr/>
-
-<details>	
- <summary><b>🛠 Tech Stack</b></summary><br>
-
-<!-- Programming Languages -->
-[![C_Lang](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/YBABYRAMYA)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/YBABYRAMYA)
-[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/YBABYRAMYA)
-[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/YBABYRAMYA)
-[![C++](https://img.shields.io/badge/C++-white?style=for-the-badge&logo=c%2B%2B)](https://en.cppreference.com/)
-
-<!-- Front End Development --> 
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/YBABYRAMYA)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Ruban2205)
-
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/YBABYRAMYA)
-[![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://github.com/YBABYRAMYA)
-[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/YBABYRAMYA)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/YBABYRAMYA)
-[![Java_Swing_GUI](https://img.shields.io/badge/Java-Swing%20GUI-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/YBABYRAMYA)
-
-<!-- Backend Development --> 
-[![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/YBABYRAMYA)
-[![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://github.com/YBABYRAMYA)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/YBABYRAMYA)
-</details>
-<hr/>
-
-### Statistics 📋
-
-
-<br/>
-  <h2 align="center">⚡ Current Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=YBABYRAMYA&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=YBABYRAMYA&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-
-</div>
-
-  <br/>
-
-<!--[![GitHub followers](https://img.shields.io/github/followers/YBABYRAMYA.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/YBABYRAMYA?tab=followers)-->
-
-
+<h1 align="center">Hi there, I'm Baby Ramya! 👋</h1>
 <p align="center">
-  
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YBABYRAMYA&layout=compact&theme=react" alt="Top Languages" />
+  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="100">
 </p>
 
+---
 
-![Visitor Badge](https://api.visitorbadge.io/api/VisitorHit?user=YBABYRAMYA&repo=github-visitors-badge&countColor=%237B1E7A)
-<hr/>
+### 🙋‍♀️ About Me  
+- 🎓 Final Year **B.Tech Information Technology (2021-2025)**  
+- 🖥️ Passionate about **Frontend Development**, **Data Science**, and **Problem Solving**  
+- 🎯 Open to **collaborations** on innovative projects  
+- 🏆 Hackathon Enthusiast | Finalist in **Smart India Hackathon 2024**  
+- 💬 Ask me about **Machine Learning**, **React**, **Power BI**, and more!  
 
-### Star ⭐ Some Of My Repositories for Future use 😉
+---
+
+### 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" height="50">&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" height="50">&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" height="50">&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" height="50">
+</p>
+
+#### Languages:
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### Frameworks:
+![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+#### Tools:
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🚀 Projects  
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200">
+</p>
+
+1. **[Personal Financial Intelligent Tracker](https://github.com/YBABYRAMYA/Personal-Financial-Intelligent-Tracker)**  
+   A smart app to manage finances with data-driven insights.  
+   _Tech Stack_: Python, Power BI, and Excel  
+
+2. **[Election Ad Spending Analytics](https://github.com/YBABYRAMYA/Election-Ad-Spending)**  
+   Analyzing 2024 Indian election ad spend patterns using **Python** and **Power BI**.  
+
+3. **[Car Price Prediction Model](https://github.com/YBABYRAMYA/Car-Price-Prediction)**  
+   Built with **scikit-learn**, predicts car prices based on various parameters.  
+
+---
+
+### 🌐 Connect With Me  
+<p align="center">
+  <a href="mailto:yalagandulababyramya@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ramya1264"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://x.com/YBabyRamya0905"><img src="https://img.shields.io/badge/X.com-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://github.com/YBABYRAMYA"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+---
+
+### 📊 GitHub Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YBABYRAMYA&show_icons=true&theme=radical" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YBABYRAMYA&layout=compact&theme=radical" height="160">
+</div>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=YBABYRAMYA&theme=radical" height="150">
+</p>
+
+---
+
+### ✨ Fun Fact  
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300">
+</p>
+**I’m always learning new tech, exploring creative solutions, and challenging myself! 🚀**
